@@ -62,13 +62,13 @@
 ### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/chart_increasing_1f4c8.gif" width="30"/> Моя GitHub Статистика</strong></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naxefir&show_icons=true&theme=material-palenight&icon_color=ff8c00&text_color=ffffff&bg_color=151515&border_color=ff8c00&border_radius=10" alt="Naxefir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaxefirYT&show_icons=true&theme=material-palenight&icon_color=ff8c00&text_color=ffffff&bg_color=151515&border_color=ff8c00&border_radius=10" alt="NaxefirYT's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naxefir&layout=compact&theme=material-palenight&langs_count=6&icon_color=ff8c00&text_color=ffffff&bg_color=151515&border_color=ff8c00&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaxefirYT&layout=compact&theme=material-palenight&langs_count=6&icon_color=ff8c00&text_color=ffffff&bg_color=151515&border_color=ff8c00&border_radius=10" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naxefir&theme=dark&border=ff8c00&background=151515&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaxefirYT&theme=dark&border=ff8c00&background=151515&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
