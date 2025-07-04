@@ -69,6 +69,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaxefirYT&theme=dark&border=ff8c00&background=151515&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/NaxefirYT/NaxefirYT/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
 ---
 
 ### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/headphone_1f3a7.gif" width="30"/> Где меня найти</strong></p>
