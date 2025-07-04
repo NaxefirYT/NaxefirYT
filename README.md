@@ -59,7 +59,7 @@
 
 ---
 
-### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/chart_increasing_1f4c8.gif" width="30"/> Моя GitHub Статистика</strong></p>
+### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/chart_increasing_1f4c8.gif" width="30"/> Моя GitHub Статистика (учитывайте, что 99% моих коммитов - приватные :3</strong></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaxefirYT&show_icons=true&theme=material-palenight&icon_color=ff8c00&text_color=ffffff&bg_color=151515&border_color=ff8c00&border_radius=10" alt="NaxefirYT's GitHub stats" />
