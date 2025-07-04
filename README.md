@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/1282328290215985175/1390776705391792250/naxefir_country_final.gif?ex=68697d3d&is=68682bbd&hm=fd7714153357d4fc142288574cb26ce1e71af1abcc19ab66828ea3d24997fcff&" width="200"/>
   <h1 align="center">
-    <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/mango_1f96d.gif" width="40"/>
     Привет, я Naxefir!
-    <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/mango_1f96d.gif" width="40"/>
   </h1>
   <h3 align="center">Добро пожаловать в мою цифровую манговую рощу! 🥭</h3>
   <p align="center">Я разработчик, превращаю код в полезные и увлекательные проекты.</p>
