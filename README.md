@@ -80,7 +80,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/Naxefir"><img src="https://img.shields.io/badge/Discord-%40Naxefir-FF9900?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/NaxefirMango"><img src="https://img.shields.io/badge/Telegram-NaxefirMango-FF9900?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@NaxefirYT"><img src="https://img.shields.io/badge/YouTube-Naxefir-FF9900?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@NaxefirMango"><img src="https://img.shields.io/badge/YouTube-Naxefir-FF9900?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.twitch.tv/naxefiryt"><img src="https://img.shields.io/badge/Twitch-Стримы-FF9900?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 </p>
 
