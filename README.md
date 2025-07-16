@@ -85,6 +85,6 @@
 </p>
 
 <div id="footer" align="center">
-  <img src="https://media.discordapp.net/attachments/1282328290215985175/1390776339497484431/image.png?ex=68697ce6&is=68682b66&hm=3b5b4542b4f34d7a197b57393a6f8bf267f8f7e3deeb30828b4cdbaa077d2b64&=&format=webp&quality=lossless&width=966&height=968" width="400"/>
+  <img width="639" height="640" alt="image" src="https://github.com/user-attachments/assets/55684e78-e321-4dad-8bb7-60522081a3ed" />
   <p><em>Создано с любовью к коду и манго 🧡</em></p>
 </div>
