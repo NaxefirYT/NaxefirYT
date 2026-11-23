@@ -1,85 +1,43 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1282328290215985175/1390776705391792250/naxefir_country_final.gif?ex=68697d3d&is=68682bbd&hm=fd7714153357d4fc142288574cb26ce1e71af1abcc19ab66828ea3d24997fcff&" width="200"/>
-  <h1 align="center">
-    Привет, я Naxefir!
-  </h1>
-  <h3 align="center">Добро пожаловать в мою цифровую манговую рощу! 🥭</h3>
-  <p align="center">Я разработчик, превращаю код в полезные и увлекательные проекты.</p>
-</div>
-
----
-
-### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/seedling_1f331.gif" width="30"/> Обо мне</strong></p>
-
-Я — разработчик с фокусом на C#, влюбленный в создание плагинов для **SCP: Secret Laboratory**. Мой путь в коде — это постоянное развитие и исследование новых технологий. В свободное время я делаю cборки Minecraft (Когда-нибудь я выпущу хотя-бы одну в открытый доступ :D), создаю сайты для души и развиваю собственное сообщество.
-
--   🧠 Активно погружаюсь в **C#** для создания крутых и необычных плагинов для SCP:SL.
--   💻 В качестве хобби занимаюсь **веб-разработкой**, экспериментируя с HTML, CSS и JS.
--   🛠️ Создаю уникальные **сборки для Minecraft**.
--   🎯 Моя главная цель: достигнуть уровня **Senior C# Developer** и реализовать еще больше крутых идей!
-
----
-
-### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/toolbox_1f9f0.gif" width="30"/> Мой стек технологий</strong></p>
-
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=c"><img src="https://skillicons.dev/icons?i=c&theme=light" alt="C"/></a>
-  <a href="https://skillicons.dev/icons?i=cpp"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++"/></a>
-  <a href="https://skillicons.dev/icons?i=cs"><img src="https://skillicons.dev/icons?i=cs&theme=light" alt="C#"/></a>
-  <a href="https://skillicons.dev/icons?i=js"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript"/></a>
-  <a href="https://skillicons.dev/icons?i=py"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"/></a>
-  <a href="https://skillicons.dev/icons?i=html"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML"/></a>
-  <a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS"/></a>
-  <a href="https://skillicons.dev/icons?i=lua"><img src="https://skillicons.dev/icons?i=lua&theme=light" alt="Lua"/></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img alt="Naxefir" src="assets/hero-dark.svg" width="100%"></picture>
 </p>
 
----
-
-### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="30"/> Текущие проекты в фокусе</strong></p>
-
-<table align="center" width="100%">
-  <tr align="center">
-    <td width="33%">
-      <p align="center"><strong>Плагины для SCP:SL</strong></p>
-      <p align="center">Создаю кастомные механики и улучшаю геймплей с помощью C#.</p>
-    </td>
-    <td width="33%">
-      <p align="center"><strong>Развитие SCP:SL проекта</strong></p>
-      <p align="center">Поддерживаю и развиваю свое игровое сообщество.</p>
-      <a href="https://discord.gg/3m2BtRsuUB"><img src="https://img.shields.io/badge/Discord-Присоединяйся-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-    </td>
-    <td width="33%">
-      <p align="center"><strong>Сборки для Minecraft</strong></p>
-      <p align="center">Конструирую самые оптимизированные и качественные сборки.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/chart_increasing_1f4c8.gif" width="30"/> Моя GitHub Статистика (учитывайте, что 99% моих коммитов - приватные :3)</strong></p>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaxefirYT&theme=dark&border=ff8c00&background=151515&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/NaxefirYT/NaxefirYT/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
-### <p align="center"><strong><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/headphone_1f3a7.gif" width="30"/> Где меня найти</strong></p>
+### Проекты
 
 <p align="center">
-  <a href="https://discordapp.com/users/Naxefir"><img src="https://img.shields.io/badge/Discord-%40Naxefir-FF9900?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/NaxefirMango"><img src="https://img.shields.io/badge/Telegram-NaxefirMango-FF9900?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@NaxefirMango"><img src="https://img.shields.io/badge/YouTube-Naxefir-FF9900?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/naxefiryt"><img src="https://img.shields.io/badge/Twitch-Стримы-FF9900?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://github.com/NaxefirYT/KFWE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kfwe-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-kfwe-light.svg"><img alt="KFWE — редактор карт Warcraft III" src="assets/card-kfwe-dark.svg" width="49.4%"></picture></a>
+  <a href="https://github.com/MangoTeamSCPSL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mango-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-mango-light.svg"><img alt="MANGO — сервер SCP:SL и плагины" src="assets/card-mango-dark.svg" width="49.4%"></picture></a>
 </p>
 
-<div id="footer" align="center">
-  <img width="639" height="640" alt="image" src="https://github.com/user-attachments/assets/55684e78-e321-4dad-8bb7-60522081a3ed" />
-  <p><em>Создано с любовью к коду и манго 🧡</em></p>
-</div>
+### Стек
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="Стек: C#, C/C++, .NET, Win32 API, LabAPI, Harmony, Unity, TypeScript, Python, Lua, Git" src="assets/stack-dark.svg" width="100%"></picture>
+</p>
+
+### Активность
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaxefirYT/NaxefirYT/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaxefirYT/NaxefirYT/output/github-contribution-grid-snake.svg">
+    <img alt="График активности GitHub" src="https://raw.githubusercontent.com/NaxefirYT/NaxefirYT/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+  <br>
+  <sub>Большая часть коммитов — в приватных репозиториях.</sub>
+</p>
+
+### Контакты
+
+<p align="center">
+  <a href="https://t.me/NaxefirMango"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-telegram-light.svg"><img alt="Telegram" src="assets/btn-telegram-dark.svg" height="36"></picture></a>&nbsp;
+  <a href="https://discord.gg/3m2BtRsuUB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-discord-light.svg"><img alt="Discord" src="assets/btn-discord-dark.svg" height="36"></picture></a>&nbsp;
+  <a href="https://www.youtube.com/@NaxefirMango"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-youtube-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-youtube-light.svg"><img alt="YouTube" src="assets/btn-youtube-dark.svg" height="36"></picture></a>&nbsp;
+  <a href="https://www.twitch.tv/naxefiryt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-twitch-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-twitch-light.svg"><img alt="Twitch" src="assets/btn-twitch-dark.svg" height="36"></picture></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55684e78-e321-4dad-8bb7-60522081a3ed" width="156" alt="Miyabi">
+</p>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="36" viewBox="0 0 98 36" fill="none">
+  <rect x="0.5" y="0.5" width="97" height="35" rx="9" fill="#151921" stroke="#2b313c" stroke-width="1"/>
+  <g transform="translate(12, 10)" color="#df8b7e" fill="#df8b7e" stroke="#df8b7e">
+    <path stroke="none" fill="currentColor" d="M15.4 4.7A2 2 0 0 0 14 3.3C12.7 3 8 3 8 3C8 3 3.3 3 2 3.3A2 2 0 0 0 0.6 4.7C0.3 6 0.3 8.5 0.3 8.5C0.3 8.5 0.3 11 0.6 12.3A2 2 0 0 0 2 13.7C3.3 14 8 14 8 14C8 14 12.7 14 14 13.7A2 2 0 0 0 15.4 12.3C15.7 11 15.7 8.5 15.7 8.5C15.7 8.5 15.7 6 15.4 4.7ZM6.5 10.8V6.2L10.5 8.5L6.5 10.8Z"/>
+  </g>
+  <text x="35" y="22.3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.2" font-weight="600" fill="#f0f3f6">YouTube</text>
+</svg>

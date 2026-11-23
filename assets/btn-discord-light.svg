@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="36" viewBox="0 0 92 36" fill="none">
+  <rect x="0.5" y="0.5" width="91" height="35" rx="9" fill="#fbfaf7" stroke="#e2ded4" stroke-width="1"/>
+  <g transform="translate(12, 10)" color="#6a48f0" fill="#6a48f0" stroke="#6a48f0">
+    <path stroke="none" fill="currentColor" d="M13.5 3.1A13.1 13.1 0 0 0 10.2 2.1C10.1 2.3 9.9 2.7 9.8 3A12.1 12.1 0 0 0 6.2 3C6.1 2.7 5.9 2.3 5.8 2.1A13.1 13.1 0 0 0 2.5 3.1C0.4 6.2 -0.2 9.2 0.1 12.2A13.2 13.2 0 0 0 4.1 14.2C4.4 13.8 4.7 13.3 5 12.8A8.6 8.6 0 0 1 3.6 12.1L4 11.8C6.6 13 9.4 13 12 11.8L12.4 12.1A8.6 8.6 0 0 1 11 12.8C11.3 13.3 11.6 13.8 11.9 14.2A13.2 13.2 0 0 0 15.9 12.2C16.2 8.7 15.3 5.7 13.5 3.1ZM5.4 10.4C4.6 10.4 4 9.7 4 8.8C4 7.9 4.6 7.2 5.4 7.2C6.2 7.2 6.8 7.9 6.8 8.8C6.8 9.7 6.2 10.4 5.4 10.4ZM10.6 10.4C9.8 10.4 9.2 9.7 9.2 8.8C9.2 7.9 9.8 7.2 10.6 7.2C11.4 7.2 12 7.9 12 8.8C12 9.7 11.4 10.4 10.6 10.4Z"/>
+  </g>
+  <text x="35" y="22.3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.2" font-weight="600" fill="#1f2328">Discord</text>
+</svg>

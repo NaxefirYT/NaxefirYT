@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="36" viewBox="0 0 88 36" fill="none">
+  <rect x="0.5" y="0.5" width="87" height="35" rx="9" fill="#151921" stroke="#2b313c" stroke-width="1"/>
+  <g transform="translate(12, 10)" color="#957dff" fill="#957dff" stroke="#957dff">
+    <path stroke="none" fill="currentColor" d="M2.2 1.2L1 4.2V13.8H4.6V15.6H6.7L8.5 13.8H11.2L15 10V1.2H2.2ZM13.6 9.3L11.5 11.4H8L6.2 13.2V11.4H3.4V2.6H13.6V9.3ZM11.5 4.8H10.1V8.6H11.5V4.8ZM7.9 4.8H6.5V8.6H7.9V4.8Z"/>
+  </g>
+  <text x="35" y="22.3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.2" font-weight="600" fill="#f0f3f6">Twitch</text>
+</svg>
